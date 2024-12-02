@@ -1,31 +1,29 @@
-# Hi, I'm Praphawarin (:
-Welcome to my GitHub profile! I'm passionate about software development and learning new technologies. Feel free to check out my repositories and contact me if you have any questions.
+# Hi, I’m Praphawarin (:
 
-> ☺ Currently seeking internship opportunities!
-> If you're a company looking for an enthusiastic intern, feel free to reach out to me via email!
+Welcome to my GitHub profile! I’m a **3rd-year Computer Science** student at Maejo University, passionate about software development and always excited to learn new technologies. Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or just want to talk tech.
+
+> **Currently looking for internship opportunities!**  
+If you’re looking for an enthusiastic and driven intern, I’d love to connect! Feel free to contact me via email.
+
+---
 
 ## ✿ About Me
 
-I am a 3rd-year computer science student at Maejo University learning about:
+I’m a **3rd-year Computer Science** student diving into:
+ 
+- **Data Science**, **Machine Learning**, and **Deep Learning** using **Python**   
+- Always learning and staying up-to-date with the latest trends and tools in tech
 
-✓ **Vue.js**, **PHP (Laravel)**, and **JavaScript** for building both backend and frontend solutions  
-✓ **Python** for **Data Science**, **Machine Learning**, and **Deep Learning**  
-✓ Web development with **Vue.js**, **Tailwind CSS**, **Bootstrap**, **PHP (Laravel)**, and **JavaScript**  
-✓ Continuous learning and staying updated with the latest tech trends  
+### ✿ What I’m Learning Right Now:
 
-### ✿ **Currently learning :**
+- **Full-stack web development** with **Vue.js**, **PHP (Laravel)**, and **JavaScript**
+- การสร้างแอปพลิเคชันเว็บไซต์ที่ใช้งานง่ายด้วย Vue.js, Tailwind CSS, Bootstrap, และ PHP (Laravel)
+- Exploring **IoT** with **Micro:bit** and **Raspberry Pi**
+- Learning **Golang** to build efficient and scalable applications
+- Sharpening my skills in **Full-Stack Web Development**
 
-- IoT using Micro:bit and Raspberry Pi
-- Exploring Golang for building scalable and efficient applications
-- Enhancing my skills in Full-Stack Web Development
+---
 
-## ✿ Skills and Tools
-- **Languages :** Python, HTML, CSS, JavaScript, PHP (Laravel) 
-- **Frameworks :** Vue.js, Tailwind CSS, Laravel 
-- **Machine Learning :** scikit-learn, TensorFlow, Keras, OpenCV 
-- **Tools & Platforms :** Git, GitHub, Google Firebase, Netlify 
-- **Databases :** MySQL, MongoDB 
-- **IDE :** VSCode, Google Colab 
+Feel free to reach out if you’d like to collaborate, discuss tech trends, or just share cool projects :)
 
-### Feel free to reach out if you want to chat about tech :)
-> **Email :** o.praphawarin@gmail.com
+> **Email**: [o.praphawarin@gmail.com](mailto:o.praphawarin@gmail.com)
