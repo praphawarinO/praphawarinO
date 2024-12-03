@@ -17,7 +17,7 @@ I’m a **3rd-year Computer Science** student diving into:
 ### ✿ What I’m Learning Right Now:
 
 - **Full-stack web development** with **Vue.js**, **PHP (Laravel)**, and **JavaScript**
-- การสร้างแอปพลิเคชันเว็บไซต์ที่ใช้งานง่ายด้วย Vue.js, Tailwind CSS, Bootstrap, และ PHP (Laravel)
+- Building user-friendly web applications with Vue.js, Tailwind CSS, Bootstrap, and PHP (Laravel)
 - Exploring **IoT** with **Micro:bit** and **Raspberry Pi**
 - Learning **Golang** to build efficient and scalable applications
 - Sharpening my skills in **Full-Stack Web Development**
